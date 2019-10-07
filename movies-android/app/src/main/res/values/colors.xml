@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#514EA5</color>
+    <color name="colorPrimaryDark">#484F80</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBackground">#BEBEBE</color>
+    <color name="heart_primary_color">#da4439</color>
+    <color name="heart_secondary_color">#8a098c</color>
+</resources>
